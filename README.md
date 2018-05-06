@@ -1,3 +1,6 @@
+
+![warm up logo](https://raw.githubusercontent.com/flat3software/warmup/master/warmup.png )
+
 # Millionaire Warmup
 
 ### Sprint 1: 5th May - 13th May (probably not tho lol) ###
